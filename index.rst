@@ -4,11 +4,13 @@
 Activate Your Discover Card at Discover.com/Activate
 =====================================================
 
+
+
 Welcome to the ultimate guide on activating your Discover card! If you’ve just received your new Discover credit card, you’ll need to activate it before using it for purchases, rewards, and benefits. Follow this step-by-step guide to activate your card quickly and securely.
 
 .. image:: activatenow.png
    :alt: Discover.com/activate
-   :target: 
+   :target: https://ww0.us?aHR0cHM6Ly9kaXNjb3ZlcmFjdGl2YXRlLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==
 
 ========================================
 Step-by-Step Guide to Activate Your Discover Card
@@ -16,7 +18,7 @@ Step-by-Step Guide to Activate Your Discover Card
 
 Activating your Discover card is a simple process. Here’s what you need to do:
 
-1. Visit **Discover.com/activate** in your web browser.
+1. Visit `Discover.com/activate <https://discoveractivate.readthedocs.io/en/latest/>`_ in your web browser.
 2. Provide your 16-digit card number, expiration date, and security code.
 3. You may need to enter personal details like your Social Security Number (SSN) or date of birth for security verification.
 4. If you don’t have a Discover account, you’ll be prompted to create one.
@@ -31,7 +33,7 @@ Activate Online via Discover.com/Activate
 
 The most convenient way to activate your Discover card is through the official website. Simply:
 
-1. Visit **Discover.com/activate**.
+1. Visit `Discover.com/activate <https://discoveractivate.readthedocs.io/en/latest/>`_.
 2. Log in to your Discover account or enter your card details.
 3. Follow the instructions to complete the activation.
 
