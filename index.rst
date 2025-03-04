@@ -65,11 +65,11 @@ What to Do If You Can’t Activate Your Card
 
 If you’re facing issues during activation, try the following:
 
-✔ **Double-check your card details** (card number, expiration date, security code).  
-✔ **Ensure your internet connection is stable** when activating online.  
-✔ **Use a different browser or clear your cache** if the website isn’t loading.  
-✔ **Restart your mobile app** if the activation fails through the app.  
-✔ **Try calling customer support** to complete activation over the phone.  
+1. **Double-check your card details** (card number, expiration date, security code).  
+2. **Ensure your internet connection is stable** when activating online.  
+3. **Use a different browser or clear your cache** if the website isn’t loading.  
+4. **Restart your mobile app** if the activation fails through the app.  
+5. **Try calling customer support** to complete activation over the phone.  
 
 Common Discover Activation Errors & Fixes
 -----------------------------------------
@@ -84,10 +84,10 @@ Discover Card Benefits After Activation
 
 Once your card is activated, you can enjoy:
 
-✔ Earn rewards on every purchase.  
-✔ Enjoy Discover’s benefits without extra costs.  
-✔ Secure transactions with zero fraud liability.  
-✔ Get help anytime from Discover representatives.  
+1. Earn rewards on every purchase.  
+2. Enjoy Discover’s benefits without extra costs.  
+3. Secure transactions with zero fraud liability.  
+4. Get help anytime from Discover representatives.  
 
 ===============================================
 Secure Activation – Protect Your Card & Personal Information
@@ -95,10 +95,10 @@ Secure Activation – Protect Your Card & Personal Information
 
 To keep your card and personal details safe during activation:
 
-✅ Always use Discover’s official website **Discover.com/activate** for activation.  
-✅ Never share your card details over unsecured emails or messages.  
-✅ Check for **HTTPS** in the URL to ensure a secure connection.  
-✅ Monitor your account for any unauthorized transactions after activation.  
+1. Always use Discover’s official website **Discover.com/activate** for activation.  
+2. Never share your card details over unsecured emails or messages.  
+3. Check for **HTTPS** in the URL to ensure a secure connection.  
+4. Monitor your account for any unauthorized transactions after activation.  
 
 ======================================================
 Frequently Asked Questions (FAQs) About Discover Card Activation
