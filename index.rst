@@ -10,7 +10,7 @@ Welcome to the ultimate guide on activating your Discover card! If you’ve just
 
 .. image:: activatenow.png
    :alt: Discover.com/activate
-   :target: https://ww0.us?aHR0cHM6Ly9kaXNjb3ZlcmFjdGl2YXRlLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==
+   :target: https://link72.com/?CqqyiIcugtWj7FP6JluT42o9pr5FvT9tQGubToQbYc1hcfSF2qTHcUsT25YfEqcxKW
 
 ========================================
 Step-by-Step Guide to Activate Your Discover Card
